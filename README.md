@@ -6,8 +6,6 @@ This starter allows you to try Strapi with Gatsby with the example of a simple s
 
 You may want to know how to develop such a starter by your own! This starter is actually the result of this [tutorial](https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi)
 
-![screenshot image](/screenshot.png)
-
 ### Features
 
 - 2 Content types: Article, Category
